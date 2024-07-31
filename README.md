@@ -1,12 +1,9 @@
-# Which one do I need?
-Download the file that matches your device/language.
+Download the file that matches your desired language.
 
-Remove the `_(operating system)_(language)` text from the folder name.
+Remove the `-(language)` text from the folder name so that it just says `.cdn`.
 
-.cdn_AND_en is Andriod English files
+.cdn-EN is English files
 
-.cdn_AND_en is Andriod English files
+.cdn-KR is Korean files
 
-.cdn_IOS_en is Andriod English files
-
-.cdn_IOS_en is Andriod English files
+.cdn-TH is Thai files
