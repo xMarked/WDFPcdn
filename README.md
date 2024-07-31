@@ -3,7 +3,8 @@
 .cdn-KR is Korean files
 
 .cdn-TH is Thai files
-
-1) Download the file that matches your desired language.
-
-2) Remove the `-(XX)` text from the folder name so that the folder just says `.cdn`.
+## Instructions
+- Download the file that matches your desired language
+- Remove the `-(XX)` text from the folder name so that the folder just says `.cdn`
+  - The folder should be 11GB to 12GB when unzipped
+- Drag the .cdn folder into `starpoint-main` folder
